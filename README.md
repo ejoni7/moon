@@ -32,8 +32,3 @@ All parameters are **fully customizable**, allowing the user to experiment with 
 - 🖥 **Terminal-based rendering** → Output is displayed directly in the terminal  
 - 📚 **Educational purpose** → Great for learning geometry, simulation concepts, and programming practice  
 
----
-
-## 📷 Preview  
-
-*(Add a screenshot of the terminal output here for better visualization!)*  
