@@ -29,6 +29,6 @@ All parameters are **fully customizable**, allowing the user to experiment with 
 ## ✨ Features  
 
 - 🎛 **Fully configurable** → All parameters can be changed by the user  
-- 🖥 **Terminal-based rendering** → Output is displayed directly in the terminal  
+- 🖥 **Terminal-based rendering** → Output is displayed directly in the terminal and press [enter] to run step by step
 - 📚 **Educational purpose** → Great for learning geometry, simulation concepts, and programming practice  
 
